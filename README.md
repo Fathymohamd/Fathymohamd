@@ -34,10 +34,20 @@ Hi 👋, I'm Fathy Mohamed
 
 ---
 
-## 🛠️ Tools
+## 🧩 Frameworks & Tools
 
-<p align="lift">
+<p align="center">
 
+### 🚀 Frameworks
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+</p>
+
+<p align="center">
+
+### 🛠️ Tools
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
 </a>
@@ -65,8 +75,6 @@ Hi 👋, I'm Fathy Mohamed
 </p>
 
 ---
-
-## 📊 GitHub Stats
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathymohamd&layout=compact&theme=radical" />
