@@ -4,12 +4,13 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-Hi 👋, I'm **Fathy Mohamed**  
+Hi 👋, I'm Fathy Mohamed  
 🚀 Frontend Developer passionate about building modern, responsive web apps  
 
 💡 Always learning and improving my skills  
+🔥 I love solving problems and building real projects  
 
 ---
 
