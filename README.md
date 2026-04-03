@@ -92,9 +92,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Fathymohamd
 <p align="lift">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Fathymohamd.Fathymohamd" />
 </p>
----
-
-## 🚀 Fun Fact
 
 ## 🎉 Fun Fact
 - I love building websites 🚀  
