@@ -16,10 +16,10 @@ Hi 👋, I'm **Fathy Mohamed**
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/fathy-mohamed-1231ba2a1/)">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="fathymohamedfathy299@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
