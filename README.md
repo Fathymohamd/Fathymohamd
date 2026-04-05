@@ -17,7 +17,7 @@ Hi 👋, I'm Fathy Mohamed
 ## 🔗 Connect with me
 
 <p align="lift">
-  <a href="https://www.linkedin.com/in/fathy-mohamed-1231ba2a1/" target="_blank">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
