@@ -1,28 +1,29 @@
+```md
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Fathy+Mohamed+👋;Full+Stack+Developer+🚀;MERN+Stack+%7C+Node.js+%7C+React.js;Building+Modern+Web+Applications+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Fathy+Mohamed+👋;Frontend+Developer+🚀;React.js+%7C+Node.js+Learner;Building+Modern+Web+Applications+🔥" />
 </p>
 
-<h1 align="center">💻 Full Stack Developer</h1>
+<h1 align="center">💻 Frontend Developer</h1>
 
 <p align="center">
-Passionate about building scalable and responsive full-stack web applications using modern technologies.
+Passionate about building responsive and modern web applications.
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-Hi 👋, I'm **Fathy Mohamed**  
+Hi 👋, I'm **Fathy Mohamed**
 
-🚀 Full Stack Developer specialized in the **MERN Stack**  
+🚀 Frontend Developer focused on building responsive web applications
 
-💡 I enjoy building complete web applications from frontend to backend  
+💡 I enjoy creating modern UI and interactive websites
 
-🔥 Passionate about creating clean UI, REST APIs, and scalable systems  
+🔥 Passionate about learning backend development and building real-world projects
 
-📚 Currently improving my backend skills with Node.js, Express.js, MongoDB, and Authentication systems  
+📚 Currently learning Backend Development using Node.js, Express.js, and MongoDB
 
-⚡ Always learning new technologies and building real-world projects  
+⚡ Always learning new technologies and improving my skills
 
 ---
 
@@ -30,7 +31,7 @@ Hi 👋, I'm **Fathy Mohamed**
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -55,9 +56,7 @@ Hi 👋, I'm **Fathy Mohamed**
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -66,7 +65,7 @@ Hi 👋, I'm **Fathy Mohamed**
 
 ---
 
-## ⚙️ Backend
+## ⚙️ Backend Learning
 
 <p align="center">
 
@@ -74,8 +73,6 @@ Hi 👋, I'm **Fathy Mohamed**
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bcrypt-00457C?style=for-the-badge"/>
 
 </p>
 
@@ -91,7 +88,6 @@ Hi 👋, I'm **Fathy Mohamed**
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </p>
 
@@ -100,19 +96,17 @@ Hi 👋, I'm **Fathy Mohamed**
 # 🚀 Featured Projects
 
 ## 🛒 E-Commerce App
-- Full stack e-commerce application
-- Authentication & Authorization
-- Shopping cart & payment system
-- REST API with Node.js & Express
-- MongoDB Database
+- Responsive frontend application
+- Shopping cart functionality
+- Product filtering and search
+- React.js & TailwindCSS
 
 ---
 
 ## 📋 Task Management App
 - Create, update, and delete tasks
-- Authentication system using JWT
-- Responsive UI with React & Tailwind
-- Backend API with Express.js
+- Responsive UI with React
+- Clean and modern design
 
 ---
 
@@ -138,17 +132,18 @@ Hi 👋, I'm **Fathy Mohamed**
 
 # 🎯 Goals 2026
 
-✅ Master Full Stack Development  
-✅ Build scalable MERN applications  
-✅ Learn System Design  
+✅ Improve Frontend Skills  
+✅ Learn Backend Development  
+✅ Build Full MERN Applications  
 ✅ Contribute to Open Source  
-✅ Get a Full Stack Developer role 🚀  
+✅ Get a Frontend Developer role 🚀
 
 ---
 
 # 🎉 Fun Fact
 
-💻 I love turning ideas into real applications  
+💻 I love turning ideas into websites  
 🚀 Coding is my favorite superpower  
 🔥 Always building and learning new things
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+```
+
