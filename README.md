@@ -98,8 +98,19 @@ Hi 👋, I'm **Fathy Mohamed**
 
 # 🚀 Featured Projects
 
-🔗 GitHub: (حط لينك الريبو لو موجود) **Tech Stack:** - Node.js - Express.js - MongoDB (if used) - REST API **Description:** Backend project built using Node.js and Express.js for handling server-side logic and APIs.
+## 🧑‍💼 Customer Dashboard (Node.js Project)
+🔗 GitHub: https://github.com/Fathymohamd/Customer-Dashboard.git  
 
+**Tech Stack:**
+- Node.js
+- Express.js
+- MongoDB
+- REST API
+
+**Description:**
+Backend system for managing customer data with full CRUD operations and API structure using Node.js and Express.js.
+
+---
 
 ## 🛒 E-commerce Vite App
 🔗 Live: https://ecommerce-vite-eta.vercel.app/  
@@ -135,15 +146,16 @@ Hi 👋, I'm **Fathy Mohamed**
 - JavaScript
 - Responsive Design
 
-
+---
 
 ## 🛒 E-Commerce App
-- Responsive frontend application
-- Shopping cart functionality
-- Product filtering and search
-- React.js & TailwindCSS
+**Description:**
+Responsive frontend application with shopping cart, product filtering, and modern UI.
 
----
+**Tech Stack:**
+- React.js
+- TailwindCSS
+  
 
 ## 📋 Task Management App
 - Create, update, and delete tasks
