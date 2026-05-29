@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Fathy+Mohamed+👋;Frontend+Developer+🚀;React.js+%7C+Node.js+Learner;Building+Modern+Web+Applications+🔥" />
 </p>
