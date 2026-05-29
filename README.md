@@ -1,12 +1,12 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Fathy+Mohamed+👋;Frontend+Developer+🚀;React.js+%7C+Node.js+Learner;Building+Modern+Web+Applications+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Fathy+Mohamed+👋;Full+Stack+Developer+🚀;MERN+Stack+Learner;Building+Modern+Web+Applications+🔥" />
 </p>
 
-<h1 align="center">💻 Frontend Developer</h1>
+<h1 align="center">💻 Full Stack Developer</h1>
 
 <p align="center">
-Passionate about building responsive and modern web applications.
+Passionate about building responsive and full-stack web applications.
 </p>
 
 ---
@@ -15,15 +15,15 @@ Passionate about building responsive and modern web applications.
 
 Hi 👋, I'm **Fathy Mohamed**
 
-🚀 Frontend Developer focused on building responsive web applications
+🚀 Full Stack Developer focused on building modern web applications
 
-💡 I enjoy creating modern UI and interactive websites
+💡 I enjoy creating responsive UI and backend systems
 
-🔥 Passionate about learning backend development and building real-world projects
+🔥 Passionate about learning new technologies and building real-world projects
 
 📚 Currently learning Backend Development using Node.js, Express.js, and MongoDB
 
-⚡ Always learning new technologies and improving my skills
+⚡ Always improving my frontend and backend development skills
 
 ---
 
@@ -110,17 +110,7 @@ Hi 👋, I'm **Fathy Mohamed**
 - Responsive UI with React
 - Clean and modern design
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Fathymohamd&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathymohamd&layout=compact&theme=radical" />
-
-</p>
 
 ---
 
