@@ -98,7 +98,10 @@ Hi 👋, I'm **Fathy Mohamed**
 
 # 🚀 Featured Projects
 
+
 ## 🧑‍💼 Customer Dashboard (Node.js Project)
+
+🔗 Live Demo: https://node-expess.fly.dev/  
 🔗 GitHub: https://github.com/Fathymohamd/Customer-Dashboard.git  
 
 **Tech Stack:**
@@ -109,8 +112,8 @@ Hi 👋, I'm **Fathy Mohamed**
 
 **Description:**
 Backend system for managing customer data with full CRUD operations and API structure using Node.js and Express.js.
-
 ---
+
 
 ## 🛒 E-commerce Vite App
 🔗 Live: https://ecommerce-vite-eta.vercel.app/  
