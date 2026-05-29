@@ -98,6 +98,9 @@ Hi 👋, I'm **Fathy Mohamed**
 
 # 🚀 Featured Projects
 
+🔗 GitHub: (حط لينك الريبو لو موجود) **Tech Stack:** - Node.js - Express.js - MongoDB (if used) - REST API **Description:** Backend project built using Node.js and Express.js for handling server-side logic and APIs.
+
+
 ## 🛒 E-commerce Vite App
 🔗 Live: https://ecommerce-vite-eta.vercel.app/  
 🔗 GitHub: https://github.com/Fathymohamd/Ecommerce.vite.git  
