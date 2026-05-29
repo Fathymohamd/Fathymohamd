@@ -29,9 +29,10 @@ Hi 👋, I'm **Fathy Mohamed**
 
 # 🌐 Connect With Me
 
+
 <p align="center">
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/fathy-mohamed-1231ba2a1/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -44,6 +45,7 @@ Hi 👋, I'm **Fathy Mohamed**
 </a>
 
 </p>
+
 
 ---
 
