@@ -95,7 +95,44 @@ Hi 👋, I'm **Fathy Mohamed**
 
 ---
 
+
 # 🚀 Featured Projects
+
+## 🛒 E-commerce Vite App
+🔗 Live: https://ecommerce-vite-eta.vercel.app/  
+🔗 GitHub: https://github.com/Fathymohamd/Ecommerce.vite.git  
+
+**Tech Stack:**
+- React.js
+- Vite
+- Redux Toolkit
+- Material UI
+
+---
+
+## 🛍️ Basket Online Shopping
+🔗 Live: https://e-commerce-dusky-mu-65.vercel.app/  
+🔗 GitHub: https://github.com/Fathymohamd/Basket-online-shopping.git  
+
+**Tech Stack:**
+- React.js
+- Redux Toolkit
+- API Integration
+- Cart System
+
+---
+
+## 🌐 Tqniait Website
+🔗 Live: https://tqniait.vercel.app/  
+🔗 GitHub: https://github.com/Fathymohamd/tqniait.git  
+
+**Tech Stack:**
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+
+
 
 ## 🛒 E-Commerce App
 - Responsive frontend application
