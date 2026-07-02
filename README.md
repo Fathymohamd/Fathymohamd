@@ -116,7 +116,7 @@ Backend system for managing customer data with full CRUD operations and API stru
 
 
 ## 🛒 E-commerce Vite App
-🔗 Live: https://ecommerce-vite-eta.vercel.app/  
+🔗 Live:   [https://ecommerce-vite-cspo.vercel.app/]
 🔗 GitHub: https://github.com/Fathymohamd/Ecommerce.vite.git  
 
 **Tech Stack:**
