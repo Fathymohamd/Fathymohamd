@@ -96,34 +96,33 @@ Hi 👋, I'm **Fathy Mohamed**
 ---
 
 
-# 🚀 Featured Projects
-
-
-## 🧑‍💼 Customer Dashboard (Node.js Project)
-
-🔗 Live Demo: https://node-expess.fly.dev/  
-🔗 GitHub: https://github.com/Fathymohamd/Customer-Dashboard.git  
-
-**Tech Stack:**
-- Node.js
-- Express.js
-- MongoDB
-- REST API
-
-**Description:**
-Backend system for managing customer data with full CRUD operations and API structure using Node.js and Express.js.
----
-
 
 ## 🛒 E-commerce Vite App
-🔗 Live: https://ecommerce-vite-cspo.vercel.app/  
+
+🔗 Live: https://ecommerce-vite-vyq6.vercel.app/
 🔗 GitHub: https://github.com/Fathymohamd/Ecommerce.vite.git
 
 **Tech Stack:**
-- React.js
-- Vite
-- Redux Toolkit
-- Material UI
+
+* React.js
+* Vite
+* Redux Toolkit
+* React Router
+* Material UI (MUI)
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+* RESTful APIs
+* JWT Authentication
+* Axios
+* Paymob Payment Integration
+* i18next (Arabic / English)
+* Cookies
+* Multer
+* React Icons
+* Framer Motion
+* Vercel
 
 ---
 
@@ -137,7 +136,6 @@ Backend system for managing customer data with full CRUD operations and API stru
 - API Integration
 - Cart System
 
----
 
 ## 🌐 Tqniait Website
 🔗 Live: https://tqniait.vercel.app/  
