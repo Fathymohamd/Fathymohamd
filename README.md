@@ -102,39 +102,53 @@ Hi 👋, I'm **Fathy Mohamed**
 🔗 Live: https://ecommerce-vite-vyq6.vercel.app/
 🔗 GitHub: https://github.com/Fathymohamd/Ecommerce.vite.git
 
-**Tech Stack:**
+**Frontend:**
 
 * React.js
 * Vite
 * Redux Toolkit
 * React Router
 * Material UI (MUI)
+* Axios
+* React Icons
+* Framer Motion
+* i18next (Arabic / English)
+
+**Backend:**
+
 * Node.js
 * Express.js
 * MongoDB
 * Mongoose
 * RESTful APIs
+
+**Authentication & Security:**
+
 * JWT Authentication
-* Axios
-* Paymob Payment Integration
-* i18next (Arabic / English)
 * Cookies
-* Multer
-* React Icons
-* Framer Motion
+* Password Hashing
+* Protected Routes
+
+**E-commerce Features:**
+
+* Product Management
+* Search & Filtering
+* Shopping Cart
+* Wishlist
+* Order Management
+* Pagination
+* User Profile & Settings
+
+**Payment:**
+
+* Paymob Payment Integration
+
+**Deployment:**
+
 * Vercel
 
+
 ---
-
-## 🛍️ Basket Online Shopping
-🔗 Live: https://e-commerce-dusky-mu-65.vercel.app/  
-🔗 GitHub: https://github.com/Fathymohamd/Basket-online-shopping.git  
-
-**Tech Stack:**
-- React.js
-- Redux Toolkit
-- API Integration
-- Cart System
 
 
 ## 🌐 Tqniait Website
@@ -149,23 +163,6 @@ Hi 👋, I'm **Fathy Mohamed**
 
 ---
 
-## 🛒 E-Commerce App
-**Description:**
-Responsive frontend application with shopping cart, product filtering, and modern UI.
-
-**Tech Stack:**
-- React.js
-- TailwindCSS
-  
-
-## 📋 Task Management App
-- Create, update, and delete tasks
-- Responsive UI with React
-- Clean and modern design
-
-
-
----
 
 # 👀 Visitors
 
